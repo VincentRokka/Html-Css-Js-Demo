@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+div {
+    justify-content: center;
+    display: flex;
+}
+
+.subs {
+    cursor: pointer;
+}
